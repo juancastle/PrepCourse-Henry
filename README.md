@@ -1,1 +1,1 @@
-# PrepCourse-Henry
+Este proyecto es un ejemplo
